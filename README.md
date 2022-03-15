@@ -1,1 +1,5 @@
-I'm a Data Scientist with a vast experience in scientific research and publishing.
+I'm Data Scientist with vast experience in scientific research and publishing.
+I've an industry experience of 5 years now.
+
+I'm looking forward to collaborating with people at github on mathematical and statistical modeling,
+machine learning.

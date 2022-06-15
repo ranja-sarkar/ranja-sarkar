@@ -3,4 +3,3 @@ I've an industry experience of 5 years now as a Data Science Consultant.
 
 I look forward to collaborating with people at github on mathematical and statistical modeling,
 machine learning. My current repositories are under continuous development and improvement. 
-[DStypes.pdf](https://github.com/ranja-sarkar/ranja-sarkar/files/8909931/DStypes.pdf)

@@ -1,5 +1,5 @@
 I'm a Scientist/Physicist with more than a decade's experience in scientific research and publishing.
-I've an industry experience of more than 5 years now as a Data Science Consultant.
+I've an industry experience of more than 6 years now as a Data Science Consultant.
 
 My repositories here are under continuous development and improvement. Happy to receive comments and be part of the discussion!
 

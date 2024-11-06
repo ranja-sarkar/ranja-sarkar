@@ -1,9 +1,9 @@
 Hello there 👋
 
-I'm a Scientist - Physicist with more than a decade's experience in scientific research and publishing, plus I've an industry experience of nearly 7 years in Data Science Consulting. 
+I'm a Scientist - Physicist with more than a decade's experience in scientific research and publishing, plus I've an industry experience ( Data Science Consulting) of nearly 7 years now. 
 
 Most of my repositories here are under continuous development/improvement. I'd be happy to be part of the discussion while I test/experiment. Keep watching/following as I progress!
-Do star ⭐ a repo, if you find it useful.😊
+
 
 <img width="623" alt="1" src="https://github.com/user-attachments/assets/077b3312-244f-48e0-a683-e99f6b243700">
 

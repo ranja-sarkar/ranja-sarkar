@@ -5,7 +5,7 @@ I'm a Scientist - Physicist with more than a decade's experience in scientific r
 Most of my repositories are under continuous development/improvement. Leave a comment if you like and I'd be happy to be part of the discussion while I test/experiment. Keep watching/following as I progress!
 
 
-<img width="623" alt="1" src="https://github.com/user-attachments/assets/077b3312-244f-48e0-a683-e99f6b243700">
+<img width="569" alt="0" src="https://github.com/user-attachments/assets/dca253f6-9141-488e-94e2-d7253e9a5894">
 
 <img width="434" alt="2" src="https://github.com/user-attachments/assets/36a755f4-31be-47be-82a1-db0b8309eec8">
 

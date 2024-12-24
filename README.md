@@ -2,6 +2,9 @@ Hello there 👋
 
 I'm a Scientist - Physicist with more than a decade's experience in scientific research and publishing, plus I've an industry experience in Data Science Consulting of nearly 7 years now. 
 
+Please visit my Research Gate profile to have a look at my publications. ↩️
+
+
 <img width="434" alt="2" src="https://github.com/user-attachments/assets/36a755f4-31be-47be-82a1-db0b8309eec8">
 
 

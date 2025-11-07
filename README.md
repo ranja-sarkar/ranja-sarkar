@@ -4,7 +4,6 @@ I'm a Scientist/Physicist with more than a decade's experience in scientific res
 I have an industry experience in Data Sciences as well. 
 
 
-[Uploading present.pdf…]()
 
 
 
